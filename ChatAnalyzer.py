@@ -785,7 +785,7 @@ elif menu == "AI Chat":
     
     # Initialize Cohere client
     try:
-        co = cohere.Client("8mbLFQr0Vv21emvY4tI3DEy8YNlpO8e7Y5SAzpqU")
+        co = cohere.Client("your-api-key-here")
 
         # Prepare chat data summary for context
         chat_summary = f"""
@@ -938,4 +938,5 @@ elif menu == "Report":
 
 # Footer
 st.markdown("---")
+
 st.markdown('<p class="footer-text"><em>Prepared by Love Mathur</em></p>', unsafe_allow_html=True)
