@@ -175,7 +175,7 @@ cohere==5.5.8
 ## 🧑‍💻 Author
 
 *Developed by:* Love Mathur
-*Email:* [your.email@example.com](mailto:your.email@example.com)
+*Email:* love.mathur@outlook.com
 *Cohere Model Used:* command-light
 *License:* MIT
 
